@@ -6,7 +6,9 @@ statistical analysis of heart failure survival rates where R Studio is utilized.
 Author: Tuyen Huynh
 
 School: University of Central Florida
+
 Class: Statistical Methods 3
+
 Date: November 2021
 
 Language: R
